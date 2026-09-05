@@ -1,4 +1,7 @@
 # Gearbox Design
+<p align="center">
+  <img src="gearbox-assembly.png" alt="Cutaway view of the gearbox assembly" width="720">
+</p>
 
 Mechanical design and analysis of a two-stage reduction gearbox, developed as an academic machine-design project.
 
